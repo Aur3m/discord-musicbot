@@ -1,4 +1,0 @@
-TOKEN=NTA3MjExMjk4MjY2OTM5Mzkz.Dr4nIw.bCDHrvDJvmGzD5-GebfjVlJShYk
-VOICE CHANNEL=388079285237186562
-PLAYLIST=https://www.youtube.com/playlist?list=PLT04Odcp4j3t6HDTriMgFItzcfMt0xqHN
-RANDOM=1
